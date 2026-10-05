@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Cleanup Solution](https://img.shields.io/badge/⚡_ACCESS_THE_CLEANUP_SOLUTION-AppCleaner_Ready-blue?style=for-the-badge)](https://vaninanataliya26.github.io/.github/appcleaner-app)
+[![Access the Cleanup Solution](https://img.shields.io/badge/⚡_ACCESS_THE_CLEANUP_SOLUTION-AppCleaner_Ready-blue?style=for-the-badge)](https://karolinewightman292.github.io/.github/AppCleaner-APP)
 </div>
 
 ## What is this AppCleaner Utility Integration?
